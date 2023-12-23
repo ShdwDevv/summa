@@ -1,0 +1,4 @@
+This is for jut to add a file in working directory
+git status : Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        addFile.txt
