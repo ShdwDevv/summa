@@ -2,3 +2,15 @@ This is for jut to add a file in working directory
 git status : Untracked files:
   (use "git add <file>..." to include in what will be committed)
         addFile.txt
+
+git commit -m "Message"
+[main (root-commit) cbe24c6] Message
+ 1 file changed, 4 insertions(+)
+ create mode 100644 addFile.txt
+
+git log:
+commit cbe24c628d5ca8168bceb1e1196ba4b55b8209e6 (HEAD -> main)
+Author: arshathahamed10 <arshathahamed500@gmail.com>
+Date:   Sat Dec 23 19:37:37 2023 +0530
+
+    Message
