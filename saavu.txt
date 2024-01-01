@@ -1,2 +1,0 @@
-Go bhai
-To make untracked - git rm --cached saavu.txt
