@@ -15,9 +15,4 @@ Author: arshathahamed10 <arshathahamed500@gmail.com>
 Date:   Sat Dec 23 19:37:37 2023 +0530
 
     Message
-
-
 To commit a file by skipping the Staging area : git commit -a -m "Message"
-
-
-Indian
