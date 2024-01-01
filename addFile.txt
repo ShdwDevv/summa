@@ -16,3 +16,7 @@ Date:   Sat Dec 23 19:37:37 2023 +0530
 
     Message
 To commit a file by skipping the Staging area : git commit -a -m "Message"
+<<<<<<< HEAD
+=======
+Indian
+>>>>>>> new
