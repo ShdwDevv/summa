@@ -19,4 +19,5 @@ To commit a file by skipping the Staging area : git commit -a -m "Message"
 Indian
 Afganistan
 
+s
 
